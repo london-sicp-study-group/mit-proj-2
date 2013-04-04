@@ -1,3 +1,7 @@
+Solutions which required implementation of a procedure are in prisoner.rkt.
+
+Solutions to some of the written problems:
+
 Problem 3
 =========
 
